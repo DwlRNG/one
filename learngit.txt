@@ -1,1 +1,2 @@
 第一个git指令 git init
+第二个命令git status
